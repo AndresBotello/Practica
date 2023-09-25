@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Presentacion\bin\Debug\Entidades.dll
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Presentacion\bin\Debug\Logica.dll
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Presentacion\bin\Debug\Logica.pdb
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Presentacion\bin\Debug\Datos.dll
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Presentacion\bin\Debug\Datos.pdb

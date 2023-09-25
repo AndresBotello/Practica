@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Logica\bin\Debug\Logica.dll
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Logica\bin\Debug\Logica.pdb
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Logica\bin\Debug\Datos.dll
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Logica\bin\Debug\Entidades.dll
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Logica\bin\Debug\Datos.pdb
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Logica\bin\Debug\Entidades.pdb
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Logica\obj\Debug\Logica.dll
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Logica\obj\Debug\Logica.pdb

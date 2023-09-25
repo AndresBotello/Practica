@@ -1,0 +1,6 @@
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Entidades\bin\Debug\Entidades.dll
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Entidades\bin\Debug\Entidades.pdb
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Entidades\obj\Debug\Entidades.dll
+C:\Users\hp\Documents\C#\SolucionPulsaciones\Entidades\obj\Debug\Entidades.pdb
